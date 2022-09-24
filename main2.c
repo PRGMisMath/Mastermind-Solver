@@ -16,14 +16,22 @@
 // Supprime toutes les informations données en cours de compilation ==> Diminue la durée d'exécution du programme
 #define NO_LOG
 
-#define NB_CAR 5
+// Sauvegarde les données sous un format traitable à l'aide de JavaScript ou de Python
+#define JS_SAVE
+/*
+* Le format activé par `JS_SAVE` sauvegarde les données de la manière suivante :
+*  - le tout est mis dans une grande liste avec d'autres listes imbriquées
+*  - le format est le suivant : DATA_STRUCT = [`coup à jouer` (string), `ce qu'il faut jouer dans chaque cas` (Array[21]<DATA_STRUCT>)]
+*/
+
+#define NB_CAR 4
 #define NB_COUL 8 // Accepte jusqu'à 256
 #define NB_LIGN 12
-#define NB_COMBIS 32768 // NB_COMBIS=pow(NB_COUL,NB_CAR)
-#define NB_ANSW 21 // NB_ANSW=(NB_CAR+1) * (NB_CAR+2) / 2
+#define NB_COMBIS 4096 // NB_COMBIS=pow(NB_COUL,NB_CAR)
+#define NB_ANSW 15 // NB_ANSW=(NB_CAR+1) * (NB_CAR+2) / 2
 
-#define NOM_SOLUTION "Solution - MM5P8C.txt"
-#define NOM_STATS "Stats - MM5P8C.csv"
+#define NOM_SOLUTION "Solution - MM4P8C.txt"
+#define NOM_STATS "Stats - MM548C.csv"
 
 
 const char color_list[NB_COUL] = { 'R','B','V','J','M','O','W','N' };
@@ -217,6 +225,7 @@ void mono_stat(size_t recursion) {
 
 // Sauvegarde les données 
 // Fonction codée de manière bizarre ==> Moche
+#ifndef JS_SAVE
 static data_saver(struct CombisOrderer* order, FILE* file, size_t recursion) {
     for (int i = 0; i < NB_ANSW; ++i) {
         if (order->answers[i] != NULL) {
@@ -248,6 +257,40 @@ static data_saver(struct CombisOrderer* order, FILE* file, size_t recursion) {
         }
     }
 }
+#else
+static data_saver(struct CombisOrderer* order, FILE* file, size_t recursion) {
+    fputc('[', file);
+    for (int i = 0; i < NB_ANSW; ++i) {
+        fputc('[', file);
+        if (order->answers[i] != NULL) {
+            if (order->answers[i]->answers[NB_ANSW - 1] == NULL) {
+                if (i != NB_ANSW - 1) {
+                    fputc('"', file);
+                    for (int j = 0; j < NB_CAR; ++j)
+                        fputc(color_list[*(order->answers[i]->c_begin + j)], file);
+                    fputc('"', file);
+                    mono_stat(recursion);
+                }
+                else {
+                    mono_stat(recursion - 1);
+                }
+            }
+            else {
+                fputc('"', file);
+                for (int j = 0; j < NB_CAR; ++j)
+                    fputc(color_list[*(order->answers[i]->answers[NB_ANSW - 1]->c_begin + j)], file);
+                fputc('"', file);
+                fputc(',', file);
+                data_saver(order->answers[i], file, recursion + 1);
+            }
+        }
+        fputc(']', file);
+        if (i != NB_ANSW - 1)
+            fputc(',', file);
+    }
+    fputc(']', file);
+}
+#endif
 
 // Sauvegarde les données
 void save_data(struct CombisOrderer* order, FILE* file) {
