@@ -18,4 +18,4 @@ Ensuite, il ne vous reste plus qu'à compiler et à lancer le programme.
 Si votre ordinateur n'est pas très puissant, il est conseillé d'éviter de rentrer des trop gros nombres pour `NB_CAR` et `NB_COMBIS` et aussi de définir la macro `NO_LOG` qui désactive l'affichage d'informations durant les calculs.
 
 ## Détails
-La complexité de l'algorithme est située entre N^2 et N^3.
+La complexité de l'algorithme est située entre N^2 et N^3 (avec N pour NB_COMBIS).
