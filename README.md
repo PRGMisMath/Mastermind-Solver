@@ -1,5 +1,5 @@
 # Mastermind-Solver
-Ce programme permet de générer la "solution" du Mastermind : c'est à dire la suite d'instruction à suivre pour gagner en le moins de tour possible.
+Ce programme permet de générer la "solution" du Mastermind en utilisant la théorie de l'information de Shannon : c'est à dire la suite d'instruction à suivre pour gagner en le moins de tour possible.
 
 ## Comment utiliser le programme ?
 Avant de compiler le code, il faut modifier les macros :
