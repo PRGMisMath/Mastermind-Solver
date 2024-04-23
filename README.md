@@ -16,8 +16,8 @@ Ensuite, il ne vous reste plus qu'à compiler et à lancer le programme.
 
 ## Comment exploiter les résultats ?
 La macro `JS_SAVE` permet de changer de mode d'enregistrement des données :
- - Si elle est activée, le résultat sera donnée sous la forme d'une liste de liste qui est exploitable par l'interpréteur Python ou JavaScript. C'est ce mode là qui est employée pour faire fonctionner la page Web présente dans `/tools`
- - Sinon, le résulat sera donnée sous une forme 'lisible' par un humain comme c'est le cas dans `/results`
+ - Si elle est activée, le résultat sera donnée sous la forme d'une liste de liste qui est exploitable par l'interpréteur Python ou JavaScript. C'est ce mode là qui est employée pour faire fonctionner la page Web présente dans `/tools`.
+ - Sinon, le résulat sera donnée sous une forme 'lisible' par un humain comme c'est le cas dans `/results`.
 
 ## Conseils
 Si votre ordinateur n'est pas très puissant, il est conseillé d'éviter de rentrer des trop gros nombres pour `NB_CAR` et `NB_COMBIS` et aussi de définir la macro `NO_LOG` qui désactive l'affichage d'informations durant les calculs.
