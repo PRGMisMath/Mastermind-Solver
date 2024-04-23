@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Solveur de Mastermind</title>
+        <script src="soluce4P8C.js"></script>
+        <script>
+            var cur_level = soluce;
+            var nb_bp=0, nb_bc=0;
+            function init() {
+                add_guess(cur_level[0]);
+                cur_level=cur_level[1];
+            }
+            function next_guess() {
+                cur_level=cur_level[(nb_bp + nb_bc) * (nb_bc + nb_bp + 1) * .5 + nb_bp];
+                add_guess(cur_level[0]);
+                cur_level=cur_level[1];
+            }
+            function add_guess(guess) {
+                a=document.getElementById("main");
+                a.innerHTML += `<br><br><h5>${guess}</h5>`;
+            }
+        </script>
+    </head>
+    <body onload="init()">
+        <div style="display:flex;">BP <input type="number" oninput="nb_bp=parseInt(this.value);">BC <input type="number" oninput="nb_bc=parseInt(this.value);"><br><button onclick="next_guess()">Prochain coup</button></div>
+        <div id="main"><h1>Solveur de Mastermind</h1></div>
+    </body>
+</html>
