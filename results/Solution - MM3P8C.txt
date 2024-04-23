@@ -1,0 +1,1024 @@
+VBR
+    0 -> OMJ
+        0 -> NWW
+            2 -> NNN
+                9 -> Victoire !!
+            3 -> WNN
+                9 -> Victoire !!
+            5 -> NNW
+                2 -> WWW
+                    9 -> Victoire !!
+                7 -> NWN
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            7 -> WNW
+                7 -> WWN
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            9 -> Victoire !!
+        1 -> NWM
+            1 -> WOO
+                0 -> JJN
+                    5 -> JNN
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                1 -> JJW
+                    9 -> Victoire !!
+                2 -> WJW
+                    9 -> Victoire !!
+                5 -> WOW
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            2 -> NNO
+                0 -> JWW
+                    9 -> Victoire !!
+                2 -> WWO
+                    9 -> Victoire !!
+                4 -> NJN
+                    9 -> Victoire !!
+                5 -> NOO
+                    9 -> Victoire !!
+                7 -> NON
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            3 -> JNW
+                2 -> MNN
+                    9 -> Victoire !!
+                3 -> WON
+                    9 -> Victoire !!
+                4 -> WNO
+                    9 -> Victoire !!
+                6 -> WJN
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            4 -> NJW
+                1 -> MNM
+                    9 -> Victoire !!
+                2 -> MWW
+                    9 -> Victoire !!
+                5 -> NOW
+                    9 -> Victoire !!
+                6 -> JWN
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            5 -> MWM
+                2 -> NNM
+                    2 -> NWO
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                5 -> WWM
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            6 -> MNW
+                9 -> Victoire !!
+            7 -> WNM
+                6 -> MWN
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            9 -> Victoire !!
+        2 -> NWJ
+            0 -> MMM
+                0 -> OOO
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            1 -> WMM
+                0 -> ONO
+                    5 -> ONN
+                        9 -> Victoire !!
+                    7 -> OON
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                1 -> OOW
+                    9 -> Victoire !!
+                4 -> MMN
+                    9 -> Victoire !!
+                5 -> WMW
+                    9 -> Victoire !!
+                7 -> MMW
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            2 -> NMM
+                0 -> OWO
+                    0 -> JJJ
+                        9 -> Victoire !!
+                    5 -> OWW
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                5 -> NMN
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            3 -> ONW
+                3 -> WMN
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            4 -> WJJ
+                1 -> NMW
+                    3 -> OWN
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                4 -> JNJ
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            5 -> NJJ
+                2 -> WWJ
+                    9 -> Victoire !!
+                4 -> JWJ
+                    9 -> Victoire !!
+                5 -> NNJ
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            7 -> WNJ
+                9 -> Victoire !!
+            9 -> Victoire !!
+        3 -> WOM
+            1 -> NJO
+                4 -> MJN
+                    9 -> Victoire !!
+                5 -> JJO
+                    9 -> Victoire !!
+                7 -> JNO
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            2 -> JON
+                1 -> MJM
+                    9 -> Victoire !!
+                2 -> JJM
+                    9 -> Victoire !!
+                3 -> NJM
+                    9 -> Victoire !!
+                4 -> JNM
+                    9 -> Victoire !!
+                5 -> JOO
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            3 -> JWO
+                2 -> MNO
+                    9 -> Victoire !!
+                3 -> MJW
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            4 -> WJO
+                1 -> MON
+                    9 -> Victoire !!
+                2 -> MOO
+                    9 -> Victoire !!
+                3 -> JWM
+                    9 -> Victoire !!
+                6 -> JOW
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            5 -> MOM
+                2 -> WJM
+                    9 -> Victoire !!
+                5 -> NOM
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            6 -> MWO
+                9 -> Victoire !!
+            7 -> MOW
+                9 -> Victoire !!
+            9 -> Victoire !!
+        4 -> WOJ
+            1 -> MMO
+                2 -> JMN
+                    9 -> Victoire !!
+                3 -> ONM
+                    9 -> Victoire !!
+                4 -> JMM
+                    9 -> Victoire !!
+                5 -> NMO
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            2 -> MJJ
+                1 -> OOM
+                    9 -> Victoire !!
+                5 -> MNJ
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            3 -> OJO
+                1 -> JMW
+                    9 -> Victoire !!
+                2 -> OWM
+                    9 -> Victoire !!
+                5 -> OJN
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            4 -> MWJ
+                3 -> WMO
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            5 -> JOJ
+                5 -> NOJ
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            6 -> OJW
+                9 -> Victoire !!
+            9 -> Victoire !!
+        5 -> WMJ
+            2 -> OOJ
+                2 -> OMM
+                    5 -> OMN
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                4 -> OMO
+                    9 -> Victoire !!
+                5 -> OJJ
+                    5 -> ONJ
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            4 -> OWJ
+                4 -> OMW
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            5 -> JMJ
+                5 -> MMJ
+                    5 -> NMJ
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            9 -> Victoire !!
+        6 -> JOM
+            6 -> MJO
+                9 -> Victoire !!
+            9 -> Victoire !!
+        7 -> MOJ
+            6 -> OJM
+                6 -> JMO
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            9 -> Victoire !!
+        9 -> Victoire !!
+    1 -> MJB
+        0 -> WRO
+            0 -> NNV
+                5 -> NVV
+                    9 -> Victoire !!
+                7 -> NVN
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            1 -> NWV
+                1 -> RNN
+                    9 -> Victoire !!
+                2 -> OVV
+                    5 -> OOV
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                3 -> OVN
+                    9 -> Victoire !!
+                4 -> ONV
+                    9 -> Victoire !!
+                5 -> NOV
+                    9 -> Victoire !!
+                7 -> NVW
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            2 -> WWV
+                0 -> RRN
+                    5 -> NRN
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                1 -> OVO
+                    5 -> NVO
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                4 -> WVN
+                    9 -> Victoire !!
+                5 -> WVV
+                    5 -> WNV
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                7 -> WVW
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            3 -> RNW
+                1 -> OWV
+                    9 -> Victoire !!
+                2 -> OVW
+                    9 -> Victoire !!
+                4 -> RON
+                    9 -> Victoire !!
+                5 -> RWW
+                    9 -> Victoire !!
+                7 -> RWN
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            4 -> RNO
+                1 -> WOV
+                    9 -> Victoire !!
+                2 -> RRW
+                    9 -> Victoire !!
+                3 -> NRW
+                    9 -> Victoire !!
+                5 -> ROO
+                    9 -> Victoire !!
+                6 -> ORN
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            5 -> NRO
+                2 -> WVO
+                    2 -> WRW
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                4 -> WRN
+                    9 -> Victoire !!
+                5 -> RRO
+                    5 -> ORO
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            6 -> ROW
+                9 -> Victoire !!
+            7 -> RWO
+                6 -> ORW
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            9 -> Victoire !!
+        1 -> ROJ
+            0 -> WMV
+                0 -> BNN
+                    9 -> Victoire !!
+                1 -> BNW
+                    5 -> BWW
+                        9 -> Victoire !!
+                    7 -> BWN
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                3 -> NVM
+                    9 -> Victoire !!
+                5 -> NMV
+                    9 -> Victoire !!
+                7 -> WVM
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            1 -> JWV
+                0 -> NRM
+                    1 -> BNO
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                1 -> WRM
+                    2 -> OVM
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                2 -> OMV
+                    1 -> BWO
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                4 -> JVN
+                    9 -> Victoire !!
+                5 -> JVV
+                    5 -> JNV
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                7 -> JVW
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            2 -> RMW
+                0 -> NVJ
+                    0 -> BOO
+                        9 -> Victoire !!
+                    1 -> BON
+                        9 -> Victoire !!
+                    5 -> JVJ
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                1 -> WVJ
+                    9 -> Victoire !!
+                2 -> BOW
+                    9 -> Victoire !!
+                4 -> RRM
+                    5 -> RNM
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                5 -> RMM
+                    5 -> RMN
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                7 -> RWM
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            3 -> ORM
+                1 -> JVO
+                    9 -> Victoire !!
+                2 -> JRW
+                    5 -> JRN
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            4 -> JRJ
+                1 -> RMO
+                    9 -> Victoire !!
+                2 -> JOV
+                    6 -> OVJ
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                5 -> WRJ
+                    5 -> NRJ
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            5 -> RRJ
+                2 -> ROM
+                    9 -> Victoire !!
+                5 -> RWJ
+                    5 -> RNJ
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            6 -> JRO
+                9 -> Victoire !!
+            7 -> ORJ
+                9 -> Victoire !!
+            9 -> Victoire !!
+        2 -> MVO
+            0 -> BWB
+                0 -> RJJ
+                    5 -> RJN
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                1 -> RJW
+                    9 -> Victoire !!
+                2 -> NNB
+                    9 -> Victoire !!
+                4 -> WNB
+                    9 -> Victoire !!
+                5 -> WWB
+                    2 -> BNB
+                        9 -> Victoire !!
+                    5 -> NWB
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            1 -> OWB
+                0 -> JJV
+                    5 -> NJV
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                1 -> WJV
+                    9 -> Victoire !!
+                4 -> BOB
+                    5 -> NOB
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                5 -> OOB
+                    5 -> ONB
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                7 -> WOB
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            2 -> MRM
+                1 -> RJO
+                    9 -> Victoire !!
+                5 -> MRW
+                    5 -> MRN
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            3 -> OJV
+                9 -> Victoire !!
+            4 -> MMV
+                5 -> MWV
+                    5 -> MNV
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            5 -> MVV
+                2 -> MRO
+                    9 -> Victoire !!
+                5 -> MVM
+                    5 -> MVW
+                        5 -> MVN
+                            9 -> Victoire !!
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            7 -> MOV
+                9 -> Victoire !!
+            9 -> Victoire !!
+        3 -> BMO
+            1 -> JRM
+                5 -> JVM
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            2 -> BWJ
+                1 -> JMV
+                    9 -> Victoire !!
+                2 -> RMJ
+                    9 -> Victoire !!
+                5 -> BNJ
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            4 -> BWM
+                2 -> BOJ
+                    9 -> Victoire !!
+                5 -> BNM
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            5 -> BMM
+                5 -> BMW
+                    5 -> BMN
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            7 -> BOM
+                9 -> Victoire !!
+            9 -> Victoire !!
+        4 -> JOB
+            1 -> MRJ
+                5 -> MVJ
+                    9 -> Victoire !!
+                6 -> RJM
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            2 -> BMB
+                5 -> WMB
+                    5 -> NMB
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            3 -> BJJ
+                5 -> BJW
+                    5 -> BJN
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            4 -> OMB
+                9 -> Victoire !!
+            5 -> JWB
+                5 -> JNB
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            6 -> BJO
+                9 -> Victoire !!
+            9 -> Victoire !!
+        5 -> OJB
+            2 -> MMB
+                2 -> MJV
+                    9 -> Victoire !!
+                5 -> MWB
+                    5 -> MNB
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            4 -> MOB
+                9 -> Victoire !!
+            5 -> BJB
+                5 -> JJB
+                    5 -> WJB
+                        5 -> NJB
+                            9 -> Victoire !!
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            9 -> Victoire !!
+        6 -> BMJ
+            9 -> Victoire !!
+        7 -> JMB
+            6 -> BJM
+                9 -> Victoire !!
+            9 -> Victoire !!
+        9 -> Victoire !!
+    2 -> MJR
+        0 -> WBO
+            0 -> VVV
+                2 -> VNN
+                    9 -> Victoire !!
+                5 -> VNV
+                    7 -> VVN
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            1 -> VVW
+                2 -> VON
+                    9 -> Victoire !!
+                4 -> VOV
+                    2 -> VWN
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                5 -> VWW
+                    5 -> VNW
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                7 -> VWV
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            2 -> NBB
+                0 -> VVO
+                    5 -> VOO
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                1 -> VNO
+                    9 -> Victoire !!
+                5 -> BBB
+                    2 -> NBN
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                7 -> BBN
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            3 -> VOW
+                9 -> Victoire !!
+            4 -> OBB
+                1 -> VWO
+                    9 -> Victoire !!
+                2 -> NBW
+                    9 -> Victoire !!
+                4 -> BBW
+                    9 -> Victoire !!
+                5 -> OBN
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            5 -> WBB
+                2 -> OBO
+                    5 -> NBO
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                4 -> BBO
+                    9 -> Victoire !!
+                5 -> WBW
+                    5 -> WBN
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            7 -> OBW
+                9 -> Victoire !!
+            9 -> Victoire !!
+        1 -> JBO
+            0 -> VMV
+                4 -> VWM
+                    5 -> VNM
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                5 -> VMM
+                    5 -> VMW
+                        5 -> VMN
+                            9 -> Victoire !!
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                7 -> VVM
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            1 -> VVJ
+                2 -> VOM
+                    9 -> Victoire !!
+                5 -> VWJ
+                    5 -> VNJ
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            2 -> BBM
+                1 -> VMO
+                    9 -> Victoire !!
+                5 -> WBM
+                    5 -> NBM
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            3 -> VOJ
+                9 -> Victoire !!
+            4 -> BBJ
+                2 -> OBM
+                    9 -> Victoire !!
+                5 -> WBJ
+                    5 -> NBJ
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            5 -> JBB
+                5 -> JBJ
+                    5 -> JBW
+                        5 -> JBN
+                            9 -> Victoire !!
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            7 -> OBJ
+                9 -> Victoire !!
+            9 -> Victoire !!
+        2 -> WOR
+            0 -> MBN
+                0 -> VJV
+                    5 -> VJJ
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                2 -> VJN
+                    9 -> Victoire !!
+                5 -> MBB
+                    5 -> MBM
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            1 -> MBO
+                0 -> VJW
+                    9 -> Victoire !!
+                2 -> VJO
+                    9 -> Victoire !!
+                5 -> MBW
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            2 -> RRR
+                2 -> NNR
+                    9 -> Victoire !!
+                5 -> NRR
+                    7 -> RNR
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            4 -> ORR
+                2 -> NWR
+                    9 -> Victoire !!
+                4 -> RWR
+                    9 -> Victoire !!
+                5 -> ONR
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            5 -> WRR
+                2 -> OOR
+                    5 -> NOR
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                4 -> ROR
+                    9 -> Victoire !!
+                5 -> WWR
+                    5 -> WNR
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            7 -> OWR
+                9 -> Victoire !!
+            9 -> Victoire !!
+        3 -> VMJ
+            3 -> JBM
+                9 -> Victoire !!
+            9 -> Victoire !!
+        4 -> JRR
+            1 -> MBJ
+                3 -> VJM
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            2 -> OMR
+                5 -> WMR
+                    5 -> NMR
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            4 -> RMR
+                9 -> Victoire !!
+            5 -> JOR
+                5 -> JWR
+                    5 -> JNR
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            9 -> Victoire !!
+        5 -> MRR
+            2 -> JJR
+                5 -> OJR
+                    5 -> WJR
+                        5 -> NJR
+                            9 -> Victoire !!
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            4 -> RJR
+                9 -> Victoire !!
+            5 -> MMR
+                5 -> MOR
+                    5 -> MWR
+                        5 -> MNR
+                            9 -> Victoire !!
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            9 -> Victoire !!
+        7 -> JMR
+            9 -> Victoire !!
+        9 -> Victoire !!
+    3 -> JVB
+        1 -> RMV
+            1 -> BRO
+                5 -> BRW
+                    5 -> BRN
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            3 -> BRM
+                9 -> Victoire !!
+            4 -> ORV
+                5 -> WRV
+                    5 -> NRV
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            5 -> RRV
+                5 -> ROV
+                    5 -> RWV
+                        5 -> RNV
+                            9 -> Victoire !!
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            7 -> MRV
+                9 -> Victoire !!
+            9 -> Victoire !!
+        2 -> RVM
+            1 -> BRB
+                5 -> ORB
+                    5 -> WRB
+                        5 -> NRB
+                            9 -> Victoire !!
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            2 -> RRB
+                5 -> ROB
+                    5 -> RWB
+                        5 -> RNB
+                            9 -> Victoire !!
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            3 -> MRB
+                9 -> Victoire !!
+            4 -> RMB
+                9 -> Victoire !!
+            5 -> RVV
+                5 -> RVO
+                    5 -> RVW
+                        5 -> RVN
+                            9 -> Victoire !!
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            9 -> Victoire !!
+        3 -> BMV
+            2 -> RJV
+                3 -> BRJ
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            5 -> BOV
+                5 -> BWV
+                    5 -> BNV
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            9 -> Victoire !!
+        4 -> JRV
+            1 -> BVM
+                5 -> BVO
+                    5 -> BVW
+                        5 -> BVN
+                            9 -> Victoire !!
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            2 -> BVV
+                9 -> Victoire !!
+            3 -> RJB
+                9 -> Victoire !!
+            6 -> RVJ
+                9 -> Victoire !!
+            9 -> Victoire !!
+        5 -> BVB
+            2 -> JRB
+                9 -> Victoire !!
+            5 -> MVB
+                5 -> OVB
+                    5 -> WVB
+                        5 -> NVB
+                            9 -> Victoire !!
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            9 -> Victoire !!
+        6 -> BJV
+            9 -> Victoire !!
+        7 -> BVJ
+            9 -> Victoire !!
+        9 -> Victoire !!
+    4 -> JVR
+        1 -> MBV
+            2 -> RBB
+                5 -> RBO
+                    5 -> RBW
+                        5 -> RBN
+                            9 -> Victoire !!
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            3 -> VOB
+                5 -> VWB
+                    5 -> VNB
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            4 -> RBM
+                9 -> Victoire !!
+            5 -> BBV
+                5 -> OBV
+                    5 -> WBV
+                        5 -> NBV
+                            9 -> Victoire !!
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            6 -> VMB
+                9 -> Victoire !!
+            9 -> Victoire !!
+        2 -> BRR
+            1 -> VVB
+                9 -> Victoire !!
+            5 -> BMR
+                5 -> BOR
+                    5 -> BWR
+                        5 -> BNR
+                            9 -> Victoire !!
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            9 -> Victoire !!
+        3 -> VRV
+            1 -> RBJ
+                9 -> Victoire !!
+            2 -> VJB
+                9 -> Victoire !!
+            5 -> VRM
+                5 -> VRO
+                    5 -> VRW
+                        5 -> VRN
+                            9 -> Victoire !!
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            9 -> Victoire !!
+        4 -> BJR
+            3 -> JBV
+                9 -> Victoire !!
+            9 -> Victoire !!
+        5 -> RVR
+            5 -> MVR
+                5 -> OVR
+                    5 -> WVR
+                        5 -> NVR
+                            9 -> Victoire !!
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            9 -> Victoire !!
+        6 -> VRJ
+            9 -> Victoire !!
+        9 -> Victoire !!
+    5 -> JBR
+        2 -> VVR
+            2 -> VBB
+                5 -> VBM
+                    5 -> VBO
+                        5 -> VBW
+                            5 -> VBN
+                                9 -> Victoire !!
+                            9 -> Victoire !!
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            4 -> VBV
+                9 -> Victoire !!
+            5 -> VRR
+                5 -> VMR
+                    5 -> VOR
+                        5 -> VWR
+                            5 -> VNR
+                                9 -> Victoire !!
+                            9 -> Victoire !!
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            9 -> Victoire !!
+        4 -> VJR
+            4 -> VBJ
+                9 -> Victoire !!
+            9 -> Victoire !!
+        5 -> RBR
+            5 -> BBR
+                5 -> MBR
+                    5 -> OBR
+                        5 -> WBR
+                            5 -> NBR
+                                9 -> Victoire !!
+                            9 -> Victoire !!
+                        9 -> Victoire !!
+                    9 -> Victoire !!
+                9 -> Victoire !!
+            9 -> Victoire !!
+        9 -> Victoire !!
+    6 -> RVB
+        6 -> BRV
+            9 -> Victoire !!
+        9 -> Victoire !!
+    7 -> BVR
+        6 -> VRB
+            6 -> RBV
+                9 -> Victoire !!
+            9 -> Victoire !!
+        9 -> Victoire !!
+    9 -> Victoire !!

@@ -1,0 +1,54 @@
+BRR
+    0 -> VVV
+        9 -> Victoire !!
+    1 -> VVB
+        4 -> RVV
+            9 -> Victoire !!
+        5 -> VBB
+            9 -> Victoire !!
+        7 -> VBV
+            9 -> Victoire !!
+        9 -> Victoire !!
+    2 -> VVR
+        0 -> BBB
+            9 -> Victoire !!
+        1 -> BBV
+            9 -> Victoire !!
+        2 -> BVB
+            9 -> Victoire !!
+        4 -> BVV
+            9 -> Victoire !!
+        7 -> VRV
+            9 -> Victoire !!
+        9 -> Victoire !!
+    3 -> RVB
+        5 -> RBB
+            9 -> Victoire !!
+        7 -> RBV
+            9 -> Victoire !!
+        9 -> Victoire !!
+    4 -> VBR
+        3 -> RRV
+            9 -> Victoire !!
+        4 -> RVR
+            9 -> Victoire !!
+        7 -> VRB
+            9 -> Victoire !!
+        9 -> Victoire !!
+    5 -> BBR
+        2 -> RRR
+            5 -> VRR
+                9 -> Victoire !!
+            9 -> Victoire !!
+        4 -> BRV
+            9 -> Victoire !!
+        5 -> BVR
+            9 -> Victoire !!
+        7 -> BRB
+            9 -> Victoire !!
+        9 -> Victoire !!
+    7 -> RBR
+        7 -> RRB
+            9 -> Victoire !!
+        9 -> Victoire !!
+    9 -> Victoire !!
